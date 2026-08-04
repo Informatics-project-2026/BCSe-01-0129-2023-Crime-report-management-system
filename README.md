@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/a1d7787c-c728-44d1-b793-d8ebc25a8968
 
 
 ```
-git clone https://github.com/Lunar6226/CRMS.git
+git clone https://github.com/Informatics-project-2026/BCSe-01-0129-2023-Crime-report-management-system.git
 cd CRMS
 python3 -m venv venv
 source venv/bin/activate
