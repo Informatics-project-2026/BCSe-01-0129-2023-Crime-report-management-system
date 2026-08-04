@@ -6,6 +6,11 @@ https://github.com/user-attachments/assets/efbd54c0-a780-4d6d-9cc6-c9c021af6ea9
 
 
 # Setup and installing
+
+
+https://github.com/user-attachments/assets/a1d7787c-c728-44d1-b793-d8ebc25a8968
+
+
 ```
 git clone https://github.com/Lunar6226/CRMS.git
 cd CRMS
