@@ -20,9 +20,6 @@ python3 app.py
 admin@crms.go.tz
 Admin@1234
 
-
-
-
 officer@crms.go.tz
 Officer@1234
 
