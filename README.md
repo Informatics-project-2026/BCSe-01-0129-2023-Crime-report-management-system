@@ -14,6 +14,8 @@ https://github.com/user-attachments/assets/a1d7787c-c728-44d1-b793-d8ebc25a8968
 ```
 git clone https://github.com/Lunar6226/CRMS.git
 cd CRMS
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 python3 app.py
 ```
